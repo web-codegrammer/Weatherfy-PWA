@@ -14,6 +14,6 @@ Setup:
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Weather-Forecast-Progressive-web-Application/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
