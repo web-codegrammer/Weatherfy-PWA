@@ -1,14 +1,19 @@
 # Weather Progressive Web Application
 ![Weather Data](https://i.imgur.com/3csowzj.png)
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
+### [Live Site](https://web-codegrammer-weather-app.netlify.app/)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a PWA. We're going to use React with service workers.
+In this code repository, i have created a PWA. I have used React with service workers.
 
-By the end of this video, you will have a strong understanding of what PWA is and how you can build, deploy and publish it.
+By creating this PWA App,i have gained a strong understanding of what PWA is and how you can build, deploy and publish it.
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+## License 
+
+[MIT](https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
